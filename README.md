@@ -2,7 +2,7 @@
 
 A solution to Sartorius - [link](https://www.kaggle.com/c/sartorius-cell-instance-segmentation) of the competition: 
 
-In this solution, I implemented Mask RCNN, a model was developed on top of Faster RCNN. The notebook is satorius.ipynb. 
+In this solution, I implemented Mask RCNN, a model was developed on top of Faster RCNN. The notebook is satorius.ipynb, and [here](https://www.kaggle.com/cowfrica/satorius-models) is the model. 
 
 Result: 
 
