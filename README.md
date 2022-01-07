@@ -2,7 +2,7 @@
 
 This project detects and delineates cell instances by implementing [Mask RCNN](https://arxiv.org/abs/1703.06870), a model that was developed on top of Faster RCNN. 
 
-### File: 
+### Files: 
 - Notebook: satorius.ipynb
 - Weights: [Weights](https://www.kaggle.com/cowfrica/satorius-models) 
 
