@@ -6,8 +6,8 @@ This project detects and delineates cell instances by implementing [Mask RCNN](h
 - Notebook: satorius.ipynb
 - Weights: [Weights](https://www.kaggle.com/cowfrica/satorius-models) 
 
-Result: 
-The evaluation metric is the mean average precision at different IOU thresholds, ranging from 0.5 to 0.95. On the validation set, I achieved 0.272. 
+### Result: 
+The evaluation metric is the mean average precision at different IOU thresholds, ranging from 0.5 to 0.95. On the validation set, I achieved a score of 0.272. 
 
 
 ![Screen Shot 2021-12-20 at 9 15 45 PM](https://user-images.githubusercontent.com/63311059/146859843-a7e1f3ff-d26e-47e0-b694-999b63930024.png)
